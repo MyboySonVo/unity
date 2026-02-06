@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 1968971389464948510}
   - component: {fileID: 1531430607651554063}
   - component: {fileID: 1577090595126878711}
+  - component: {fileID: 3228172027743928149}
   m_Layer: 0
   m_Name: Animation
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -152,7 +153,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -182,6 +183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   explosionPrefab: {fileID: 1981774452263784, guid: 69bc9de1566254e4db3ef4d734a7fbcd,
     type: 3}
+  maxHealth: 3
 --- !u!95 &1577090595126878711
 Animator:
   serializedVersion: 7
@@ -204,3 +206,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3228172027743928149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 30057525172531271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373f3adf49056c345bb4efc11fb9368a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyShoot
+  bulletPrefab: {fileID: 8084645203883449953, guid: 4130ea820522cbc48bf3065013b7a899,
+    type: 3}
+  shootPoint: {fileID: 0}
+  shootInterval: 1

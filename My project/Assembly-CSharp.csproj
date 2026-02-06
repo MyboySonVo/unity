@@ -66,6 +66,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Script\ScriptC3\NShooting.cs" />
+    <Compile Include="Assets\Script\Health.cs" />
     <Compile Include="Assets\Script\SimpleAudioPlayer.cs" />
     <Compile Include="Assets\Script\ScriptC3\TurretRotation2D.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\RepeatingBackground.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\DirectMoving.cs" />
     <Compile Include="Assets\Script\ChangeColorObserver.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\Script\EnemyBullet.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Script\VideoEventController.cs" />
@@ -111,8 +113,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\LevelController.cs" />
+    <Compile Include="Assets\Script\NewMonoBehaviourScript.cs" />
     <Compile Include="Assets\Script\Playermovement.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\VisualEffect.cs" />
+    <Compile Include="Assets\Script\EnemyShoot.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Boundary.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
