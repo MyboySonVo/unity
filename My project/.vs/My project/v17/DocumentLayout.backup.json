@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Clone\\unity\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Clone\\unity\\My project\\Assets\\Script\\ScriptC3\\NShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\ScriptC3\\NShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Clone\\unity\\My project\\Assets\\Script\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NShooting.cs",
+              "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\ScriptC3\\NShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptC3\\NShooting.cs",
+              "ToolTip": "D:\\Clone\\unity\\My project\\Assets\\Script\\ScriptC3\\NShooting.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptC3\\NShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:26:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EnemyBullet.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\EnemyBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\EnemyBullet.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VideoEventController.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\VideoEventController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\VideoEventController.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VideoPlayByKey.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\VideoPlayByKey.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\VideoPlayByKey.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GlobalAudioController.cs",
               "DocumentMoniker": "D:\\Clone\\unity\\My project\\Assets\\Script\\GlobalAudioController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GlobalAudioController.cs",
