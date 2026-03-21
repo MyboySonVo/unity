@@ -7,7 +7,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public int health = 100;
     public event Action<int> OnHealthChanged;
-    public GameObject gameOverUI; // Assign the Game Over UI in the Inspector
+    public GameObject gameOverUI; 
 
     private void Start()
     {
